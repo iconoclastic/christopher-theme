@@ -1,0 +1,22 @@
+/*
+Theme Name: Christopher Develop
+Theme Slug: chrdevelop
+Theme URI: http://christopheramirian.com
+Author: Christopher Amirian
+Author URI: http://christopheramirian.com
+GitHub Theme URI: https://github.com/iconoclastic
+Description: Develop theme to showcase my WordPress Theme Development abilities.
+License: Christopher Amirian
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: chrdevelop
+Tags: one-column, custom-menu, featured-images, theme-options, translation-ready
+*/
+
+/*
+This file is just used to identify the theme in WordPress.
+The compiled CSS output can be found in /css/theme.css
+The SASS sources for it can be found in /sass/
+The dependencies can be found in /src/ after running "gulp copy-assets" terminal command
+
+...and now go out and play!
+*/
