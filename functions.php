@@ -34,3 +34,5 @@ foreach ( $understrap_includes as $file ) {
 	}
 	require_once $filepath;
 }
+
+add_filter( 'github_updater_disable_wpcron', '__return_true' );
